@@ -9,6 +9,7 @@ gem 'jquery-rails'
 gem 'listen'
 gem 'simple_form'
 gem 'haml'
+gem 'rb-readline'
 group :development, :test do
   gem 'capybara'
   gem 'factory_girl_rails'
